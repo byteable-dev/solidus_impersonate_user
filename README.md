@@ -1,9 +1,6 @@
 # Solidus Impersonate User
 
-[![CircleCI](https://circleci.com/gh/solidusio-contrib/solidus_impersonate_user.svg?style=shield)](https://circleci.com/gh/solidusio-contrib/solidus_impersonate_user)
-[![codecov](https://codecov.io/gh/solidusio-contrib/solidus_impersonate_user/branch/master/graph/badge.svg)](https://codecov.io/gh/solidusio-contrib/solidus_impersonate_user)
-
-<!-- Explain what your extension does. -->
+This gem makes it possible for admins to impersonate another user and see the store in his/her eyes.
 
 ## Installation
 
@@ -21,7 +18,7 @@ bin/rails generate solidus_impersonate_user:install
 
 ## Usage
 
-<!-- Explain how to use your extension once it's been installed. -->
+Go to admin and press "Impersonate".
 
 ## Development
 
