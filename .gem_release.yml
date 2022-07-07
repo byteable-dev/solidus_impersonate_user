@@ -1,0 +1,5 @@
+bump:
+  recurse: false
+  file: 'lib/solidus_impersonate_user/version.rb'
+  message: Bump SolidusImpersonateUser to %{version}
+  tag: true
